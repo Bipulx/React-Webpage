@@ -64,7 +64,6 @@ navbar input[type="checkbox"],
   z-index: 100;
   position: fixed;
   top: 0;
-  overflow: hidden;
 }
 
 .navbar-container {
